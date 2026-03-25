@@ -1,0 +1,6 @@
+{
+  "prompt": "Aerial photograph of a wide river with two survey teams visible. Left bank: a large team of surveyors with many instruments, all conferring over a single large map before making one deliberate mark. Right bank: a single surveyor frantically moving a marker repeatedly in small jerky adjustments, papers flying. Natural wide daylight. No text, no labels.",
+  "model": "Gemini 3 Flash Image",
+  "concept": "Batch vs Stochastic Gradient Descent",
+  "metaphor": "Two survey teams mapping a river. One team waits until they have measured every single point on the entire river before moving their map pin once — slow but accurate. The other team moves their pin after every single measurement — fast and reactive but wildly erratic."
+}
